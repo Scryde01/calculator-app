@@ -1,0 +1,5 @@
+{
+  "name": "Freelance Rate Calculator",
+  "description": "A high-precision tool for freelancers to calculate hourly and day rates based on target monthly income, expenses, tax, and billable utilization.",
+  "requestFramePermissions": []
+}
